@@ -35,8 +35,7 @@
               "title": "11.3 Repartição de Competências Constitucionais"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3b4bc8376afe697",
+  "active": "3e4327be7efa2a90",
   "lastOpenFiles": [
-    "Direito Constitucional/11. Organização Político-Administrativa do Estado/11.2 O Federalismo Brasileiro.md",
     "Direito Constitucional/11. Organização Político-Administrativa do Estado/11.3 Repartição de Competências Constitucionais.md",
+    "Direito Constitucional/11. Organização Político-Administrativa do Estado/11.2 O Federalismo Brasileiro.md",
     "11. Organização Político-Administrativa do Estado.md",
     "Direito Constitucional/11. Organização Político-Administrativa do Estado",
     "Direito Processual Penal/8. Ação Penal/8.8 Denúncia e Queixa.md",
