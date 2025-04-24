@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROVAS - EXAME DE CD I.md",
+                "file": "PROVAS - EXAME DE CD II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROVAS - EXAME DE CD I"
+              "title": "PROVAS - EXAME DE CD II"
             }
           },
           {
@@ -193,6 +193,7 @@
   },
   "active": "3e4327be7efa2a90",
   "lastOpenFiles": [
+    "PROVAS - EXAME DE CD I.md",
     "GCM - GERAL.pdf",
     "GCM - GERAL.md",
     "GCM - ESPECIFCA.pdf",
