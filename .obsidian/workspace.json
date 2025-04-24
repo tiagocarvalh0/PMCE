@@ -11,12 +11,14 @@
             "id": "3e4327be7efa2a90",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "GCM - GERAL.pdf"
+                "file": "PROVAS - EXAME DE CD I.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GCM - GERAL"
+              "icon": "lucide-file",
+              "title": "PROVAS - EXAME DE CD I"
             }
           },
           {
@@ -191,9 +193,9 @@
   },
   "active": "3e4327be7efa2a90",
   "lastOpenFiles": [
+    "GCM - GERAL.pdf",
     "GCM - GERAL.md",
     "GCM - ESPECIFCA.pdf",
-    "GCM - GERAL.pdf",
     "Direito Constitucional/11. Organização Político-Administrativa do Estado/11.2 O Federalismo Brasileiro.md",
     "Direito Constitucional/11. Organização Político-Administrativa do Estado/11.3 Repartição de Competências Constitucionais.md",
     "11. Organização Político-Administrativa do Estado.md",
