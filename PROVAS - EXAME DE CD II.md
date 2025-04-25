@@ -17,7 +17,7 @@ E indicado pelas partes envolvidas no processo (MP/acusação,defesa,ofendido/qu
 OBS: São auxiliares das partes, e não podem ser considerados funcionários públicos para fins penais.
 6 - **PARTES E PERICIA**
 - As partes envolvidas no processo podem solicitar que os peritos oficias sejam ouvidos para esclarecer duvidas/responder a quesitos.
-- O pedido de oitiva(audiência dos peritos) deve ser feito com antecedência 10 dias o mínimo contendo:
+	- O pedido de oitiva(audiência dos peritos) deve ser feito com antecedência 10 dias o mínimo contendo:
 	- Mandado de intimação
 	- Quesitos ou questões a serem respondidas.
 - Alem de questionar os peritos oficias, as partes podem;
