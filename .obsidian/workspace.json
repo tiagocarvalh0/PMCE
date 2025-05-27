@@ -11,10 +11,12 @@
             "id": "e0c27dec665c18e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "pdf",
+              "state": {
+                "file": "GCM - ESPECIFCA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GCM - ESPECIFCA"
             }
           }
         ]
@@ -175,11 +177,11 @@
   },
   "active": "e0c27dec665c18e1",
   "lastOpenFiles": [
-    "GCM - ESPECIFCA.pdf",
     "GCM - GERAL.pdf",
+    "linha_2235_imagem_0_acentuacao-grafica-regras-gerais.webp",
+    "GCM - ESPECIFCA.pdf",
     "Direito Constitucional/11. Organização Político-Administrativa do Estado/11.2 O Federalismo Brasileiro.md",
     "Portugues/1.4 Acentuação Gráfica - Proparoxítonas, Paroxítonas, Oxítonas e Hiatos.md",
-    "linha_2235_imagem_0_acentuacao-grafica-regras-gerais.webp",
     "Portugues/linha_2235_imagem_0_acentuacao-grafica-regras-gerais.webp.crdownload",
     "Portugues",
     "PROVAS - EXAME DE CD II.md",
