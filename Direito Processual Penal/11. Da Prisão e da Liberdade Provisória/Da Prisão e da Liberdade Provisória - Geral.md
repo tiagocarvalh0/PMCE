@@ -40,3 +40,8 @@ E - <span style="color:rgb(0, 176, 80)">ação de grupos armados, civis ou milit
 RAGA -> INAFIANÇAVEL + IMPRESCRITIVEL.
 3TH -> INAFIANÇAVEL + INSUCETIVEL DE GRAÇA/ANISTIA.
 [Q2043438](https://www.qconcursos.com/questoes-militares/questoes/3f55eb60-97)
+A - Tratamento ambulatorial e internação em manicômio judiciário, para o indiciado ou acusado que possua alto grau de periculosidade. 
+B  -Proibição de acesso ou frequência a determinados lugares quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado permanecer distante desses locais para evitar o risco de novas infrações.  
+C - Comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades.  
+D - Proibição de manter contato com pessoa determinada quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado dela permanecer distante.  
+E - Fiança, nas infrações que a admitem, para assegurar o comparecimento a atos do processo, evitar a obstrução do seu andamento ou em caso de resistência injustificada à ordem judicial. 
