@@ -4,3 +4,8 @@ B - adequação da medida à gravidade do crime, circunstâncias do fato e condi
 <span style="color:rgb(0, 176, 80)">C - intimação da parte contrária, para se manifestar no prazo de 5 (cinco) dias, ressalvados os casos de urgência ou de perigo de ineficácia da medida</span>
 D - proibição do emprego de força <span style="color:rgb(255, 0, 0)">EXCETO</span> caso de resistência ou de tentativa de fuga do preso
 [Q3049810](https://www.qconcursos.com/questoes-militares/questoes/7fb689ee-91)
+A - Temporária. -> APENAS NO IP.
+B - Em flagrante. 
+C - Especial. -> 
+<span style="color:rgb(0, 176, 80)">D - Preventiva.</span> 
+E - Administrativa.
