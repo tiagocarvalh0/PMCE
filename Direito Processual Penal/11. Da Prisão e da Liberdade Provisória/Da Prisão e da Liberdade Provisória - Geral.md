@@ -23,6 +23,11 @@ D -O despacho que decretar a prisão temporária deverá ser fundamentado e prol
 E -O dia do cumprimento do mandado de prisão <span style="color:rgb(255, 0, 0)">SERA</span> incluído no cômputo do prazo de prisão temporária.
 [Q2182928](https://www.qconcursos.com/questoes-militares/questoes/7acfe1e9-04)
 <span style="color:rgb(0, 176, 80)">I. Não será concedida fiança quando presentes os motivos que autorizam a decretação da prisão preventiva e também no caso de prisão civil ou militar.  </span>
-II. O valor da fiança será de 10 () a 200 (duzentos) salários mínimos quando o máximo da pena privativa de liberdade cominada for superior a 4 (quatro) anos.  
+II. O valor da fiança será de <span style="color:rgb(255, 0, 0)">10 (DEZ)</span> a 200 (duzentos) salários mínimos quando o máximo da pena privativa de liberdade cominada for superior a 4 (quatro) anos.  
 III. Para determinar o valor da fiança, a autoridade terá em consideração a natureza da infração, a ~~EXTENÇÃO DO DANO CAUSADO A VITIMA~~, as condições pessoais de fortuna e vida pregressa do acusado, as circunstâncias indicativas de sua periculosidade, bem como a importância provável das custas do processo, até final julgamento  
-IV. O quebramento injustificado da fiança importará na perda da totalidade do seu valor, cabendo ao juiz decidir sobre a imposição de outras medidas cautelares ou, se for o caso, a decretação da prisão preventiva.
+IV. O quebramento injustificado da fiança importará na perda da <span style="color:rgb(255, 0, 0)">METADE</span> do seu valor, cabendo ao juiz decidir sobre a imposição de outras medidas cautelares ou, se for o caso, a decretação da prisão preventiva.
+[Q2182926](https://www.qconcursos.com/questoes-militares/questoes/7acb101a-04)
+A - Se o réu, sendo perseguido, passar ao território de outro município ou comarca, o executor poderá efetuar- lhe a prisão no lugar onde o alcançar, apresentando-o imediatamente à autoridade do local <span style="color:rgb(255, 0, 0)">DA PRISÃO</span>.
+<span style="color:rgb(0, 176, 80)">B - Para decretação de prisão temporária em face de representação feita pela autoridade policial, o juiz necessariamente deverá ouvir o Ministério Público antes de decidir.</span>
+C - As medidas cautelares serão decretadas pelo juiz no curso da investigação criminal por representação da autoridade policial ou mediante requerimento do Ministério Público ~~OU DAS PARTES.~~ -><span style="color:rgb(255, 0, 0)"> PRISÃO TEMP. SOMENTE REQUERIMENTO DA AUT. POLICIAL OU MP</span>.
+D - O despacho do juiz decretando a prisão temporária autoriza, desde já, seu cumprimento pela autoridade responsável, servindo como nota de culpa.
