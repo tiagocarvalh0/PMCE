@@ -17,7 +17,12 @@ A - O mandado de prisão conterá necessariamente o período de duração da pri
 <span style="color:rgb(0, 176, 80)">E - Decorrido o prazo contido no mandado de prisão, a autoridade responsável pela custódia deverá, independentemente de nova ordem da autoridade judicial, pôr imediatamente o preso em liberdade, salvo se já tiver sido comunicada da prorrogação da prisão temporária ou da decretação da prisão preventiva.</span> 
 [Q2237434](https://www.qconcursos.com/questoes-militares/questoes/e7bc0dd0-3a)
 A - A autoridade judiciária deverá decretar <span style="color:rgb(255, 0, 0)">A REQUERIMENTO DO MP OU AUT. POLICIAL</span>, a prisão temporária de suspeito do cometimento de crimes considerados hediondos.
-B - E necessário constar do mandado de prisão temporária o dia em que o preso deverá ser libertado.
+B - <span style="color:rgb(255, 0, 0)">E </span>necessário constar do mandado de prisão temporária o dia em que o preso deverá ser libertado.
 C - A prisão temporária somente poderá ser executada depois da expedição de mandado judicial.
-D -O despacho que decretar a prisão temporária deverá ser fundamentado e prolatado dentro do prazo de 24 horas, contadas a partir da expedição da representação ou do requerimento.
-E -O dia do cumprimento do mandado de prisão não será incluído no cômputo do prazo de prisão temporária.
+D -O despacho que decretar a prisão temporária deverá ser fundamentado e prolatado dentro do prazo de 24 horas, contadas a partir <span style="color:rgb(255, 0, 0)">DO RECEBIMENTO</span> da representação ou do requerimento.
+E -O dia do cumprimento do mandado de prisão <span style="color:rgb(255, 0, 0)">SERA</span> incluído no cômputo do prazo de prisão temporária.
+[Q2182928](https://www.qconcursos.com/questoes-militares/questoes/7acfe1e9-04)
+<span style="color:rgb(0, 176, 80)">I. Não será concedida fiança quando presentes os motivos que autorizam a decretação da prisão preventiva e também no caso de prisão civil ou militar.  </span>
+II. O valor da fiança será de 10 () a 200 (duzentos) salários mínimos quando o máximo da pena privativa de liberdade cominada for superior a 4 (quatro) anos.  
+III. Para determinar o valor da fiança, a autoridade terá em consideração a natureza da infração, a ~~EXTENÇÃO DO DANO CAUSADO A VITIMA~~, as condições pessoais de fortuna e vida pregressa do acusado, as circunstâncias indicativas de sua periculosidade, bem como a importância provável das custas do processo, até final julgamento  
+IV. O quebramento injustificado da fiança importará na perda da totalidade do seu valor, cabendo ao juiz decidir sobre a imposição de outras medidas cautelares ou, se for o caso, a decretação da prisão preventiva.
