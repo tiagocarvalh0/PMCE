@@ -30,4 +30,13 @@ IV. O quebramento injustificado da fiança importará na perda da <span style="c
 A - Se o réu, sendo perseguido, passar ao território de outro município ou comarca, o executor poderá efetuar- lhe a prisão no lugar onde o alcançar, apresentando-o imediatamente à autoridade do local <span style="color:rgb(255, 0, 0)">DA PRISÃO</span>.
 <span style="color:rgb(0, 176, 80)">B - Para decretação de prisão temporária em face de representação feita pela autoridade policial, o juiz necessariamente deverá ouvir o Ministério Público antes de decidir.</span>
 C - As medidas cautelares serão decretadas pelo juiz no curso da investigação criminal por representação da autoridade policial ou mediante requerimento do Ministério Público ~~OU DAS PARTES.~~ -><span style="color:rgb(255, 0, 0)"> PRISÃO TEMP. SOMENTE REQUERIMENTO DA AUT. POLICIAL OU MP</span>.
-D - O despacho do juiz decretando a prisão temporária autoriza, desde já, seu cumprimento pela autoridade responsável, servindo como nota de culpa.
+D - O despacho do juiz decretando a prisão temporária autoriza, desde já, seu cumprimento pela autoridade responsável, <span style="color:rgb(255, 0, 0)">NÃO</span> servindo como nota de culpa.
+[Q2085965](https://www.qconcursos.com/questoes-militares/questoes/99cfd7e7-b5)
+A - <span style="color:rgb(0, 176, 80)">tortura.</span>
+B - <span style="color:rgb(0, 176, 80)">racismo.</span>
+C - <span style="color:rgb(0, 176, 80)">tráfico de entorpecentes.</span> 
+D - ameaça no âmbito de violência doméstica e familiar contra a mulher.
+E - <span style="color:rgb(0, 176, 80)">ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.</span> 
+RAGA -> INAFIANÇAVEL + IMPRESCRITIVEL.
+3TH -> INAFIANÇAVEL + INSUCETIVEL DE GRAÇA/ANISTIA.
+[Q2043438](https://www.qconcursos.com/questoes-militares/questoes/3f55eb60-97)
