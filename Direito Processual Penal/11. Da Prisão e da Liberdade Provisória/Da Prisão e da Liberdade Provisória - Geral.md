@@ -52,3 +52,13 @@ A - poderá ser decretada a requerimento do assistente da acusação ~~apenas na
 C - <span style="color:rgb(255, 0, 0)">PODERA</span> ser decretada a requerimento do assistente da acusação.
 D - poderá ser decretada a requerimento do assistente da acusação ~~apenas na fase da ação penal~~.
 E - ~~não poderá~~ ser decretada a requerimento do assistente da acusação, ~~salvo no caso de ação penal privada.~~
+[Q979373](https://www.qconcursos.com/questoes-militares/questoes/f773a145-5a)
+<span style="color:rgb(255, 0, 0)">I - A prisão temporária será decretada pelo juiz, de ofício ou em face da representação da autoridade policial ou de requerimento do Ministério Público e, os presos temporários deverão permanecer, obrigatoriamente, separados dos demais detentos.</span>
+
+II - Quando houver necessidade de fazer-se o reconhecimento de pessoa, aquele que tiver de fazer o reconhecimento será convidado a descrever a pessoa que deva ser reconhecida e, só depois, ocorrerão os atos subsequentes.
+
+<span style="color:rgb(255, 0, 0)">III - A acareação será admitida entre acusados, entre ofendidos e entre testemunhas, sendo vedada a prática do ato entre acusados e ofendidos e entre testemunhas de defesa e ofendidos.</span>
+
+IV - No curso do processo penal, caso haja necessidade da oitiva de um policial militar na condição de testemunha, a requisição de apresentação não poderá ser dirigida diretamente ao policial militar que se pretende auscultar.
+
+V - A concessão do _habeas corpus_ obstará e porá termo ao processo criminal que esteja em conflito com os fundamentos que sustentam a concessão
