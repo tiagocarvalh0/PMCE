@@ -40,8 +40,15 @@ E - <span style="color:rgb(0, 176, 80)">ação de grupos armados, civis ou milit
 RAGA -> INAFIANÇAVEL + IMPRESCRITIVEL.
 3TH -> INAFIANÇAVEL + INSUCETIVEL DE GRAÇA/ANISTIA.
 [Q2043438](https://www.qconcursos.com/questoes-militares/questoes/3f55eb60-97)
-A - Tratamento ambulatorial e internação em manicômio judiciário, para o indiciado ou acusado que possua alto grau de periculosidade. 
-B  -Proibição de acesso ou frequência a determinados lugares quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado permanecer distante desses locais para evitar o risco de novas infrações.  
-C - Comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades.  
-D - Proibição de manter contato com pessoa determinada quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado dela permanecer distante.  
-E - Fiança, nas infrações que a admitem, para assegurar o comparecimento a atos do processo, evitar a obstrução do seu andamento ou em caso de resistência injustificada à ordem judicial. 
+<span style="color:rgb(255, 0, 0)">A - Tratamento ambulatorial e internação em manicômio judiciário, para o indiciado ou acusado que possua alto grau de periculosidade. </span>-> MEDIA DE SEGURANÇA.
+INTERNAÇAO PROVISORIA -> MEDIA CAUTELAR.
+<span style="color:rgb(0, 176, 80)">B  - Proibição de acesso ou frequência a determinados lugares quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado permanecer distante desses locais para evitar o risco de novas infrações.  </span>
+<span style="color:rgb(0, 176, 80)">C - Comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades.</span>  
+<span style="color:rgb(0, 176, 80)">D - Proibição de manter contato com pessoa determinada quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado dela permanecer distante.  </span>
+<span style="color:rgb(0, 176, 80)">E - Fiança, nas infrações que a admitem, para assegurar o comparecimento a atos do processo, evitar a obstrução do seu andamento ou em caso de resistência injustificada à ordem judicial. </span> 
+[Q1972309](https://www.qconcursos.com/questoes-militares/questoes/8ef36e3a-4c)
+A - poderá ser decretada a requerimento do assistente da acusação apenas na fase de inquérito.
+B - poderá ser decretada a requerimento do assistente da acusação em qualquer fase da investigação ou da ação penal.
+C - não poderá ser decretada a requerimento do assistente da acusação.
+D - poderá ser decretada a requerimento do assistente da acusação apenas na fase da ação penal.
+E - não poderá ser decretada a requerimento do assistente da acusação, salvo no caso de ação penal privada.
