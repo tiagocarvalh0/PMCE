@@ -63,3 +63,9 @@ E - ~~não poderá~~ ser decretada a requerimento do assistente da acusação, ~
 <span style="color:rgb(0, 176, 80)">B - Nos casos em que o auto de prisão em flagrante permita aferir que o fato praticado se amolda às condições de excludente de ilicitude, poderá o juiz conceder ao acusado liberdade provisória, vinculando tal liberdade do acusado ao compromisso de não se furtar ao comparecimento de quaisquer atos processuais.</span>
 C - A autoridade policial poderá conceder fiança nos casos de infração penal cuja pena privativa de liberdade máxima não seja superior a <span style="color:rgb(255, 0, 0)">4 (QUATRO)</span> anos.
 ~~D  - Nos crimes de tortura, tráfico ilícito de entorpecentes e drogas afins, terrorismo e nos definidos como crimes hediondos, não se admite a concessão de liberdade provisória.~~ -> CABE LIBERDADE PROVISORIA EM QUALQUER CRIME, INCLUSIVE HEDIONDOS E EQUIPARADOS.
+[Q967153](https://www.qconcursos.com/questoes-militares/questoes/f5c4c916-30)
+A - Um dos ~~pressupostos~~ <span style="color:rgb(255, 0, 0)">HIPOTESES</span> para a decretação da prisão preventiva é o crime ser doloso punido com pena privativa de liberdade máxima superior a 4 (quatro) anos.
+B - O juiz poderá <span style="color:rgb(255, 0, 0)">NÃO PODERA</span> decretar, ex officio, a prisão preventiva no curso do inquérito policial <span style="color:rgb(255, 0, 0)">NEM NA AÇÃO PENAL.</span>
+C - Consoante posicionamento consolidado do Pretório Excelso, a prisão temporária <span style="color:rgb(255, 0, 0)">NÃO PODE </span>ser decretada no curso da ação penal quando o réu estiver ameaçando testemunhas e destruindo provas.
+D - Caberá prisão temporária na fase inquisitorial, <span style="color:rgb(255, 0, 0)">NÃO</span> no curso da ação penal.
+E - Segundo entendimento recente da 6º turma do STJ, a prática de contravenção penal, no âmbito de violência doméstica, não é motivo idôneo para justificara prisão preventiva do réu.
