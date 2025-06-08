@@ -9,3 +9,4 @@ B - Em flagrante.
 C - Especial. -> 
 <span style="color:rgb(0, 176, 80)">D - Preventiva.</span> 
 E - Administrativa.
+[Q3049196](https://www.qconcursos.com/questoes-militares/questoes/f2d5da26-91)
