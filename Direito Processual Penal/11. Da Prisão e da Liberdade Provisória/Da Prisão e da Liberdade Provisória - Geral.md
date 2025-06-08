@@ -47,8 +47,8 @@ INTERNAÇAO PROVISORIA -> MEDIA CAUTELAR.
 <span style="color:rgb(0, 176, 80)">D - Proibição de manter contato com pessoa determinada quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado dela permanecer distante.  </span>
 <span style="color:rgb(0, 176, 80)">E - Fiança, nas infrações que a admitem, para assegurar o comparecimento a atos do processo, evitar a obstrução do seu andamento ou em caso de resistência injustificada à ordem judicial. </span> 
 [Q1972309](https://www.qconcursos.com/questoes-militares/questoes/8ef36e3a-4c)
-A - poderá ser decretada a requerimento do assistente da acusação apenas na fase de inquérito.
-B - poderá ser decretada a requerimento do assistente da acusação em qualquer fase da investigação ou da ação penal.
-C - não poderá ser decretada a requerimento do assistente da acusação.
-D - poderá ser decretada a requerimento do assistente da acusação apenas na fase da ação penal.
-E - não poderá ser decretada a requerimento do assistente da acusação, salvo no caso de ação penal privada.
+A - poderá ser decretada a requerimento do assistente da acusação ~~apenas na fase de inquérito~~.
+<span style="color:rgb(0, 176, 80)">B - poderá ser decretada a requerimento do assistente da acusação em qualquer fase da investigação ou da ação penal.</span>
+C - <span style="color:rgb(255, 0, 0)">PODERA</span> ser decretada a requerimento do assistente da acusação.
+D - poderá ser decretada a requerimento do assistente da acusação ~~apenas na fase da ação penal~~.
+E - ~~não poderá~~ ser decretada a requerimento do assistente da acusação, ~~salvo no caso de ação penal privada.~~
