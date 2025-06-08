@@ -68,4 +68,9 @@ A - Um dos ~~pressupostos~~ <span style="color:rgb(255, 0, 0)">HIPOTESES</span> 
 B - O juiz poderá <span style="color:rgb(255, 0, 0)">NÃO PODERA</span> decretar, ex officio, a prisão preventiva no curso do inquérito policial <span style="color:rgb(255, 0, 0)">NEM NA AÇÃO PENAL.</span>
 C - Consoante posicionamento consolidado do Pretório Excelso, a prisão temporária <span style="color:rgb(255, 0, 0)">NÃO PODE </span>ser decretada no curso da ação penal quando o réu estiver ameaçando testemunhas e destruindo provas.
 D - Caberá prisão temporária na fase inquisitorial, <span style="color:rgb(255, 0, 0)">NÃO</span> no curso da ação penal.
-E - Segundo entendimento recente da 6º turma do STJ, a prática de contravenção penal, no âmbito de violência doméstica, não é motivo idôneo para justificara prisão preventiva do réu.
+E - Segundo entendimento recente da 6º turma do STJ, a prática de<span style="color:rgb(0, 176, 80)"> contravenção penal</span>, no âmbito de violência doméstica, não é motivo idôneo para justificara prisão preventiva do réu. -> CONTRAVENÇÃO = CRIME LEVE.
+[Q698831](https://www.qconcursos.com/questoes-militares/questoes/a7470fb7-85)
+A - Lavrado o auto de prisão em flagrante e não havendo o preso indicado nome de advogado, a autoridade policial, ao encaminhar os autos ao juiz, também encaminhará cópia integral ao Ministério Público.
+B - A homologação do auto de prisão em flagrante pela autoridade judiciária indicando cuidar-se de prisão legal, não é suficiente para que o preso permaneça acautelado no curso da instrução criminal.
+C - O Ministério Público não é destinatário do comunicado de prisão em flagrante haja vista faltar-lhe atribuição para a realização do juízo de legalidade quanto à prisão. A comunicação é dirigida ao juiz e à família ou pessoa pelo preso indicada.
+D - A prisão temporária será decretada pelo juiz, de ofício ou em face da representação da autoridade policial ou de requerimento do Ministério Público, e terá prazo de cinco dias prorrogável por igual período em caso de extrema e comprovada necessidade.
