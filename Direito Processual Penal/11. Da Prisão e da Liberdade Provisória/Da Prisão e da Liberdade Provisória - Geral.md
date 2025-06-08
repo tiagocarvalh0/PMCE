@@ -10,3 +10,8 @@ C - Especial. ->
 <span style="color:rgb(0, 176, 80)">D - Preventiva.</span> 
 E - Administrativa.
 [Q3049196](https://www.qconcursos.com/questoes-militares/questoes/f2d5da26-91)
+A - O mandado de prisão conterá necessariamente o período de duração da prisão temporária, bem como o dia em que <span style="color:rgb(255, 0, 0)">O PRESO SERA LIBERTADO.</span>
+B - Caberá prisão temporária quando houver fundadas razões, de acordo com qualquer prova admitida na legislação penal, de autoria ou participação do indiciado nos crimes contra o sistema financeiro.
+C - Nos crimes hediondos, a prisão temporária terá o prazo de 30 (trinta) dias, prorrogável por igual período em caso de extrema e comprovada necessidade.
+D - O despacho que decretar a prisão temporária deverá ser fundamentado e prolatado dentro do prazo de 24 (vinte e quatro) horas, contadas a partir do recebimento da representação ou do requerimento.
+E - Decorrido o prazo contido no mandado de prisão, a autoridade responsável pela custódia deverá, independentemente de nova ordem da autoridade judicial, pôr imediatamente o preso em liberdade, salvo se já tiver sido comunicada da prorrogação da prisão temporária ou da decretação da prisão preventiva.
