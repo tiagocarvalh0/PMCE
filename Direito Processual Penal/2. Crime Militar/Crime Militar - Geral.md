@@ -4,3 +4,9 @@ A - Abandono de posto.
 C - Motim.
 D - Deserção.
 E - Desacato.
+[Q3303884](https://www.qconcursos.com/questoes-militares/questoes/c8ce0cea-1b)
+A - Motim. -> <span style="color:rgb(0, 176, 240)">PARTICIPAÇÃO DE +1 MILITAR + REVOLTA CONTRA AUTORIDADE.</span>
+B - Abandono de posto. -> <span style="color:rgb(0, 176, 240)">MILTAR ABANDONA SEU LOCAL DE SERVIÇO</span>.
+C - Insubordinação. -> CAPITULO DO CPM.
+D - Desobediência. -> MILITAR RECUSA-SE A CUMPRIR ORDEM DIRETA DO SUPERIOR SEM JUSTIFICATIVA
+E - Insurreição. 
