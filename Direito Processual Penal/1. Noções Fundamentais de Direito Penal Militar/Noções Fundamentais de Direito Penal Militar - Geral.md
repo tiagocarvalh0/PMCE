@@ -28,11 +28,7 @@ I. A parte geral do Código Penal Militar contém previsão do ~~arrependimento 
 <span style="color:rgb(0, 176, 80)">III. Em relação às circunstâncias agravantes, a embriaguez do militar, ainda que não preordenada, salvo se decorrer de caso fortuito, engano ou força maior, sempre agrava a pena, quando não for integrante ou qualificativa do crime.  </span> -> <span style="color:rgb(0, 176, 240)">EMBRIAGUEZ PREORDENADA = AGENTE BEBE PARA COMETER O CRIME.</span>
 IV. O Tenente, comandante de pelotão, durante o expediente administrativo, praticou ofensa verbal contra um militar que lhe é subordinado e foi imediatamente agredido fisicamente por este militar, em repulsa à ofensa verbal. Nesse contexto, o militar que praticou a agressão física incidiu no ~~crime militar de violência contra superior previsto no art. 157 do Código Penal Militar.~~ -> <span style="color:rgb(0, 176, 240)">NÃO TEM QUALIDADE DE SUPERIOR EM REPULSA À AGRESSÃO.</span>
 [Q1780797](https://www.qconcursos.com/questoes-militares/questoes/b9c8b151-f5)
-A
-Durante uma discussão sobre times de futebol, um Cabo da Polícia Militar, reformado, pratica o crime de lesão corporal contra outro Cabo da Polícia Militar, da ativa, que se encontrava de folga, em um bar.
-B
-Um Sargento da Polícia Militar, da ativa, durante a folga, utilizando arma da Instituição Policial Militar, pratica o crime de ameaça contra seu vizinho, civil, em virtude de este ter proferido palavras ofensivas à sua filha adolescente.
-C
-Um Soldado da Polícia Militar, da ativa, em serviço, efetua, intencionalmente, um disparo de arma de fogo para o alto em um lugar habitado, praticando o crime de “disparo de arma de fogo”, previsto no Estatuto do Desarmamento.
-D
-Durante uma discussão sobre times de futebol, um Cabo da Polícia Militar, da ativa, de folga, pratica o crime de lesão corporal contra outro Cabo da Polícia Militar, reformado, em um bar.
+A - Durante uma discussão sobre times de futebol, um Cabo da Polícia Militar, reformado, pratica o crime de lesão corporal contra outro Cabo da Polícia Militar, da ativa, que se encontrava de folga, em um bar. -> <span style="color:rgb(0, 176, 240)">LUGAR NÃO ESTA SUJEITO A ADM MILITAR</span>. 
+B - Um Sargento da Polícia Militar, da ativa, durante a folga, utilizando arma da Instituição Policial Militar, pratica o crime de ameaça contra seu vizinho, civil, em virtude de este ter proferido palavras ofensivas à sua filha adolescente. -> <span style="color:rgb(0, 176, 240)">APENAS O USO NA ARMA NÃO E SUFICIENTE.</span>
+<span style="color:rgb(0, 176, 80)">C - Um Soldado da Polícia Militar, da ativa, em serviço, efetua, intencionalmente, um disparo de arma de fogo para o alto em um lugar habitado, praticando o crime de “disparo de arma de fogo”, previsto no Estatuto do Desarmamento.</span>
+D - Durante uma discussão sobre times de futebol, um Cabo da Polícia Militar, da ativa, de folga, pratica o crime de lesão corporal contra outro Cabo da Polícia Militar, reformado, em um bar. -> <span style="color:rgb(0, 176, 240)">LUGAR NÃO ESTA SUJEITO A ADM MILITAR</span>.
