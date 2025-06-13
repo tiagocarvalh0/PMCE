@@ -17,8 +17,8 @@ B - Estado de necessidade exculpante. -><span style="color:rgb(0, 176, 240)"> BE
 D - Estado de necessidade superlativo. 
 E - Estado de necessidade castrense.
 [Q2350515](https://www.qconcursos.com/questoes-militares/questoes/34b8a29d-b9)
-A - praticado por militar em serviço contra militar da reserva, reformado ou civil, ~~somente~~ em lugar sujeito à administração militar.  -> MILITAR EM SERVIÇO CRIME MILITAR EM QUALQUER 
-B - praticado por militar em situação de inatividade, em lugar sujeito à administração militar, contra militar da reserva, reformado ou civil.
-C - cometido por militar estadual em situação de atividade contra militar na mesma situação, mesmo fora de lugar sujeito à administração militar. 
+A - praticado por militar em serviço contra militar da reserva, reformado ou civil, ~~somente~~ em lugar sujeito à administração militar.  -><span style="color:rgb(0, 176, 240)"> MILITAR EM SERVIÇO E CRIME MILITAR EM QUALQUER LUGAR. </span>
+<span style="color:rgb(255, 0, 0)">B - praticado por militar em situação de inatividade, em lugar sujeito à administração militar, contra militar da reserva, reformado ou civil. </span>-> <span style="color:rgb(0, 176, 240)">TEM QUE ESTAR EMPREGADO NA ADM MILITAR.</span>
+<span style="color:rgb(0, 176, 80)">C - cometido por militar estadual em situação de atividade contra militar na mesma situação, mesmo fora de lugar sujeito à administração militar. </span>
 D - doloso contra a vida, cometido por militar contra civil, sendo invariavelmente da competência do tribunal do júri. 
 E - praticado por militar fora do período de manobras ou exercício contra militar da reserva, reformado ou civil.  
