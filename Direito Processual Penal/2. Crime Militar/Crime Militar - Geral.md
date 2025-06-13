@@ -20,5 +20,5 @@ E - Estado de necessidade castrense.
 A - praticado por militar em serviço contra militar da reserva, reformado ou civil, ~~somente~~ em lugar sujeito à administração militar.  -><span style="color:rgb(0, 176, 240)"> MILITAR EM SERVIÇO E CRIME MILITAR EM QUALQUER LUGAR. </span>
 <span style="color:rgb(255, 0, 0)">B - praticado por militar em situação de inatividade, em lugar sujeito à administração militar, contra militar da reserva, reformado ou civil. </span>-> <span style="color:rgb(0, 176, 240)">TEM QUE ESTAR EMPREGADO NA ADM MILITAR.</span>
 <span style="color:rgb(0, 176, 80)">C - cometido por militar estadual em situação de atividade contra militar na mesma situação, mesmo fora de lugar sujeito à administração militar. </span>
-D - doloso contra a vida, cometido por militar contra civil, sendo invariavelmente da competência do tribunal do júri. 
+D - doloso contra a vida, cometido por militar contra civil, sendo ~~invariavelmente~~ da competência do tribunal do júri. -> <span style="color:rgb(0, 176, 240)">FORÇAS ARMADAS VS CIVIL, QUANDO NO CUMPRIMENTO QUE PRESIDENTE ATRIBUIU OU AÇÃO DE ENVOLVA SEGURANÇA DA INSTITUIÇÃO/MISSÃO MILITAR. = JMU</span>
 E - praticado por militar fora do período de manobras ou exercício contra militar da reserva, reformado ou civil.  
