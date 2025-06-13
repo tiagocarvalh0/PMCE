@@ -17,6 +17,14 @@ D - A internação <span style="color:rgb(255, 0, 0)">NÃO</span> deve visar ape
 E - A internação, cujo mínimo deve ser fixado de entre um a três anos, é por tempo <span style="color:rgb(255, 0, 0)">INDETERMINADO</span>, podendo cessar antes do termo final fixado, desde que atestada, mediante perícia médica, a cessação da periculosidade do internado.
 [Q1874861](https://www.qconcursos.com/questoes-militares/questoes/58c48500-95)
 I- A omissão é relevante como causa quando o omitente devia e podia agir para <span style="color:rgb(255, 0, 0)">EVITAR</span> produzir o resultado.  
-II- O dever de agir incumbe a quem tenha por lei obrigação de cuidado, proteção ou vigilância.  
-III- O dever de agir incumbe a quem assumiu a responsabilidade de impedir o resultado.  
-IV- O dever de agir incumbe a quem, com seu comportamento, ignorar a superveniência do resultado.
+<span style="color:rgb(0, 176, 80)">II- O dever de agir incumbe a quem tenha por lei obrigação de cuidado, proteção ou vigilância.  </span>
+<span style="color:rgb(0, 176, 80)">III- O dever de agir incumbe a quem assumiu a responsabilidade de impedir o resultado.  </span>
+IV- O dever de agir incumbe a quem, com seu comportamento, <span style="color:rgb(255, 0, 0)">CRIOU O RISCO DE SUA SUPERVENIÊNCIA</span>.
+[Q1828549](https://www.qconcursos.com/questoes-militares/questoes/e4bf6280-2a)
+I. A parte geral do Código Penal Militar contém previsão do ~~arrependimento posterior~~, segundo o qual nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida de um a dois terços.  
+  
+<span style="color:rgb(0, 176, 80)">II. A sentinela que tem contra seu filho uma arma de fogo apontada por um agente, razão pela qual abandona o seu posto, para atender à recomendação do autor e ver seu filho a salvo, não poderá invocar coação moral irresistível.  </span>
+  
+III. Em relação às circunstâncias agravantes, a embriaguez do militar, ainda que não preordenada, salvo se decorrer de caso fortuito, engano ou força maior, sempre agrava a pena, quando não for integrante ou qualificativa do crime.  
+  
+IV. O Tenente, comandante de pelotão, durante o expediente administrativo, praticou ofensa verbal contra um militar que lhe é subordinado e foi imediatamente agredido fisicamente por este militar, em repulsa à ofensa verbal. Nesse contexto, o militar que praticou a agressão física incidiu no ~~crime militar de violência contra superior previsto no art. 157 do Código Penal Militar.~~ -> NÃO TEM QUALIDADE DE SUPERIOR EM REPUL
