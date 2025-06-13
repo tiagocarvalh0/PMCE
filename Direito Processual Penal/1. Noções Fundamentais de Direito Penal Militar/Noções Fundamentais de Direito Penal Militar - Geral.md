@@ -39,8 +39,7 @@ D - Durante uma discussão sobre times de futebol, um Cabo da Polícia Militar, 
 D - A boa conduta durante a execução da pena, a adaptação ao trabalho e às circunstâncias atinentes à sua personalidade, ao meio social e à sua vida pregressa, permitem supor que <span style="color:rgb(255, 0, 0)">NÃO</span> voltará a delinquir.
 <span style="color:rgb(0, 176, 80)">E - Em seu § 2º, contempla o livramento etário, em que se reduz a exigência de cumprimento de pena para menores de 21 e maiores de 70 anos.</span> 
 [Q587168](https://www.qconcursos.com/questoes-militares/questoes/89cf1fe7-a3)
-(<span style="color:rgb(255, 0, 0)">F</span>) Os dispositivos do CPM que se referem ao tempo de guerra possuem natureza de lei temporária e, por isso, aplicam-se mesmo após encerrado o tempo de guerra.  
-  
-(<span style="color:rgb(255, 0, 0)">F</span>) Se um militar brasileiro pratica um crime em missão no Haiti, ainda que segundo o CPM o crime seja considerado crime militar, o CPM não é aplicável em razão da limitação imposta pelo Princípio da Territorialidade.  
-  
-(<span style="color:rgb(0, 176, 80)">V</span>) Segundo positivado no CPM, deve-se considerar como navio uma pequena lancha da Marinha do Brasil com três Fuzileiros Navais, comandada por um Capitão-Tenente da mesma Força Armada.
+(<span style="color:rgb(255, 0, 0)">F</span>) Os dispositivos do CPM que se referem ao tempo de guerra possuem natureza de lei temporária e, por isso, aplicam-se mesmo após encerrado o tempo de guerra. -> <span style="color:rgb(0, 176, 240)">LEI JA EXISTE = ART 10 CPM, POR ISSO NÃO E LEI TEMPORARIA.
+  </span>
+(<span style="color:rgb(255, 0, 0)">F</span>) Se um militar brasileiro pratica um crime em missão no Haiti, ainda que segundo o CPM o crime seja considerado crime militar, o CPM não é aplicável em razão da limitação imposta pelo Princípio da Territorialidade.  -> <span style="color:rgb(0, 176, 240)">CPM E APLICADO PELO PRINCIPIO DA EXTRATERRITORIALIDADE</span>.
+  (<span style="color:rgb(0, 176, 80)">V</span>) Segundo positivado no CPM, deve-se considerar como navio uma pequena lancha da Marinha do Brasil com três Fuzileiros Navais, comandada por um Capitão-Tenente da mesma Força Armada.
