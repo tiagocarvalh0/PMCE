@@ -12,6 +12,11 @@ E - da territorialidade, pois se aplica a legislação brasileira aos crimes pra
 [Q1874865](https://www.qconcursos.com/questoes-militares/questoes/58d242a0-95)
 <span style="color:rgb(0, 176, 80)">A - O exílio local é medida preventiva, a bem da ordem pública ou do próprio condenado, que consiste na proibição de que este resida ou permaneça, durante um ano, pelo menos, na localidade, município ou comarca em que o crime foi praticado.</span>
 B - A proibição de frequentar determinados lugares consiste em privar o condenado, pelo prazo <span style="color:rgb(255, 0, 0)">DE 1  ANO</span>, da faculdade de acesso a lugares que favoreçam, por qualquer motivo, seu retorno à atividade criminosa.
-C - O exílio local consiste em privar o condenado, durante <span style="color:rgb(255, 0, 0)">1 ANO</span>, pelo menos, 
-D - A internação deve visar apenas o tratamento curativo do internado, desligando-o do regime educativo ou de trabalho lucrativo.
-E - A internação, cujo mínimo deve ser fixado de entre um a três anos, é por tempo determinado, podendo cessar antes do termo final fixado, desde que atestada, mediante perícia médica, a cessação da periculosidade do internado.
+C - O exílio local consiste em privar o condenado, durante <span style="color:rgb(255, 0, 0)">1 ANO</span>, pelo menos, <span style="color:rgb(255, 0, 0)">PROIBIÇÃO QUE RESIDA/PERMANEÇA, NA LOCALIDADE/MUNICIPIO/COMARCAR QUE O CRIME FOI PRATICADO.</span>
+D - A internação <span style="color:rgb(255, 0, 0)">NÃO</span> deve visar apenas o tratamento curativo do internado, <span style="color:rgb(255, 0, 0)">LIGANDO-O AO</span>  regime educativo ou de trabalho lucrativo.
+E - A internação, cujo mínimo deve ser fixado de entre um a três anos, é por tempo <span style="color:rgb(255, 0, 0)">INDETERMINADO</span>, podendo cessar antes do termo final fixado, desde que atestada, mediante perícia médica, a cessação da periculosidade do internado.
+[Q1874861](https://www.qconcursos.com/questoes-militares/questoes/58c48500-95)
+I- A omissão é relevante como causa quando o omitente devia e podia agir para <span style="color:rgb(255, 0, 0)">EVITAR</span> produzir o resultado.  
+II- O dever de agir incumbe a quem tenha por lei obrigação de cuidado, proteção ou vigilância.  
+III- O dever de agir incumbe a quem assumiu a responsabilidade de impedir o resultado.  
+IV- O dever de agir incumbe a quem, com seu comportamento, ignorar a superveniência do resultado.
