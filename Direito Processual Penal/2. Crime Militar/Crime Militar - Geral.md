@@ -8,5 +8,11 @@ E - Desacato.
 A - Motim. -> <span style="color:rgb(0, 176, 240)">PARTICIPAÇÃO DE +1 MILITAR + REVOLTA CONTRA AUTORIDADE.</span>
 B - Abandono de posto. -> <span style="color:rgb(0, 176, 240)">MILTAR ABANDONA SEU LOCAL DE SERVIÇO</span>.
 C - Insubordinação. -> CAPITULO DO CPM.
-D - Desobediência. -> MILITAR RECUSA-SE A CUMPRIR ORDEM DIRETA DO SUPERIOR SEM JUSTIFICATIVA
-E - Insurreição. 
+<span style="color:rgb(0, 176, 80)">D - Desobediência. -> MILITAR RECUSA-SE A CUMPRIR ORDEM DIRETA DO SUPERIOR SEM JUSTIFICATIVA.</span>
+E - Insurreição. <span style="color:rgb(0, 176, 240)">REBELIÃO ARMADA.</span> 
+[Q3259252](https://www.qconcursos.com/questoes-militares/questoes/86665334-09)
+A - Estado de necessidade justificante.
+B - Estado de necessidade exculpante. 
+C - Estado de necessidade imperativo. 
+D - Estado de necessidade superlativo. 
+E - Estado de necessidade castrense.
