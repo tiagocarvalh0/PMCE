@@ -46,3 +46,10 @@ C - Considera-se em estado de necessidade como excludente da <span style="color:
 <span style="color:rgb(0, 176, 80)">D - Quando o agente, por erro de percepção ou no uso dos meios de execução, ou outro acidente, atinge uma pessoa em vez de outra, responde como se tivesse praticado o crime contra aquela que realmente pretendia atingir. Devem ter-se em conta não as condições e qualidades da vítima, mas as da outra pessoa, para configuração, qualificação ou exclusão do crime, e agravação ou atenuação da pena.
 </span>
 E - <span style="color:rgb(255, 0, 0)">NÃO SÃO</span> elementos constitutivos do crime a qualidade de superior ou a de inferior, quando não conhecida do agente; <span style="color:rgb(0, 176, 80)">a qualidade de superior ou a de inferior, a de oficial de dia, de serviço ou de quarto, ou a de sentinela, vigia, ou plantão, quando a ação é praticada em repulsa a agressão.</span> 
+[Q1825762](https://www.qconcursos.com/questoes-militares/questoes/e9c0fbe2-26)
+<span style="color:rgb(0, 176, 80)">A - uma transgressão disciplinar</span>.
+B - o crime de deserção especial, previsto no Aer. 190 do CPM. -> <span style="color:rgb(0, 176, 240)">MILITAR NÃO EMBARCA EM NAVIO/AERONAVE ...</span>
+C - o crime militar de insubmissão, previsto no Art. 183 do CPM. -> <span style="color:rgb(0, 176, 240)">CIVIL NÃO SE APRESENTA A ATO DE INCORPORAÇÃO.</span>
+D - o crime militar de omissão de vigilância, previsto no Art. 373 do CPM. -> <span style="color:rgb(0, 176, 240)">COMANDANTE SURPREENDIDO PELO INIMIGO.</span>
+E - o crime de abandono de posto ou serviço, previsto no Art. 195 do CPM. -> <span style="color:rgb(0, 176, 240)">TEM QUE ASSUIMIR O POSTO DEPOIS ABANDONAR.</span> 
+[Q1821802](https://www.qconcursos.com/questoes-militares/questoes/1a48b7d9-1e)
