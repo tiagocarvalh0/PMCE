@@ -53,3 +53,8 @@ C - o crime militar de insubmissão, previsto no Art. 183 do CPM. -> <span style
 D - o crime militar de omissão de vigilância, previsto no Art. 373 do CPM. -> <span style="color:rgb(0, 176, 240)">COMANDANTE SURPREENDIDO PELO INIMIGO.</span>
 E - o crime de abandono de posto ou serviço, previsto no Art. 195 do CPM. -> <span style="color:rgb(0, 176, 240)">TEM QUE ASSUIMIR O POSTO DEPOIS ABANDONAR.</span> 
 [Q1821802](https://www.qconcursos.com/questoes-militares/questoes/1a48b7d9-1e)
+A - ~~expressamente a figura do superior hierárquico, fazendo a distinção entre Praças e Oficiais~~. -> 
+B - superior hierárquico o militar que, em virtude da função, posto ou graduação, exerce autoridade sobre outro de igual <span style="color:rgb(255, 0, 0)">POSTO/GRADUAÇÃO</span>.
+C - superior o militar que, em virtude da função, posto ou graduação, exerce autoridade sobre <span style="color:rgb(0, 176, 240)">DE IGUAL POSTO/GRADUAÇÃO.</span>
+<span style="color:rgb(0, 176, 80)">D - superior o militar que, em virtude da função, exerce autoridade sobre outro de igual posto ou graduação.</span>
+E - a figura do superior hierárquico e funcional, fazendo a distinção entre ambos, por meio de definição autêntica.
