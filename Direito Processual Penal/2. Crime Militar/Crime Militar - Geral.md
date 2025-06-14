@@ -57,4 +57,4 @@ A - ~~expressamente a figura do superior hierárquico, fazendo a distinção ent
 B - superior hierárquico o militar que, em virtude da função, posto ou graduação, exerce autoridade sobre outro de igual <span style="color:rgb(255, 0, 0)">POSTO/GRADUAÇÃO</span>.
 C - superior o militar que, em virtude da função, posto ou graduação, exerce autoridade sobre <span style="color:rgb(0, 176, 240)">DE IGUAL POSTO/GRADUAÇÃO.</span>
 <span style="color:rgb(0, 176, 80)">D - superior o militar que, em virtude da função, exerce autoridade sobre outro de igual posto ou graduação.</span>
-E - a figura do superior hierárquico e funcional, fazendo a distinção entre ambos, por meio de definição autêntica.
+~~E - a figura do superior hierárquico e funcional, fazendo a distinção entre ambos, por meio de definição autêntica.~~
