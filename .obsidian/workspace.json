@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6098a32a2de7969a",
+        "id": "a62e4f927955362b",
         "type": "tabs",
         "children": [
           {
-            "id": "1b14341a52737003",
+            "id": "2f38f09651a91619",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "GCM - GERAL.pdf"
+                "file": "Direito ADM/3. Organização da Administração Pública/3.1 Desconcentração e Descentralização Administrativa.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GCM - GERAL"
+              "icon": "lucide-file",
+              "title": "3.1 Desconcentração e Descentralização Administrativa"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "bb7706a688cba00d",
@@ -175,8 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b14341a52737003",
+  "active": "2f38f09651a91619",
   "lastOpenFiles": [
+    "3. Organização da Administração Pública.md",
+    "Direito ADM/3. Organização da Administração Pública/3.1 Desconcentração e Descentralização Administrativa.md",
+    "Direito ADM/3. Organização da Administração Pública",
+    "GCM - GERAL.pdf",
+    "Direito ADM",
     "GCM - ESPECIFCA.pdf",
     "linha_2235_imagem_0_acentuacao-grafica-regras-gerais.webp",
     "Direito Processual Penal/2. Crime Militar/Crime Militar - Geral.md",
@@ -189,7 +197,6 @@
     "Direito Constitucional/16. Poder Executivo/16.1 Presidente da República, Vice-Presidente da República e Ministros de Estado..md",
     "Direito Constitucional/11. Organização Político-Administrativa do Estado/11.2 O Federalismo Brasileiro.md",
     "Direito Constitucional/16. Poder Executivo",
-    "GCM - GERAL.pdf",
     "Portugues/1.4 Acentuação Gráfica - Proparoxítonas, Paroxítonas, Oxítonas e Hiatos.md",
     "Portugues/linha_2235_imagem_0_acentuacao-grafica-regras-gerais.webp.crdownload",
     "Portugues",
@@ -198,9 +205,7 @@
     "PROVAS - EXAME DE CD I.md",
     "GCM - GERAL.md",
     "11. Organização Político-Administrativa do Estado.md",
-    "Direito Constitucional/11. Organização Político-Administrativa do Estado",
     "Direito Processual Penal/8. Ação Penal/8.8 Denúncia e Queixa.md",
-    "Direito Constitucional",
     "Direito Processual Penal/8. Ação Penal/8.5 A. P. Privada definição, princípios e espécies.md",
     "Direito Processual Penal/8. Ação Penal/8.4 A. P. Pub. - definição, princípios e espécies.md",
     "Direito Processual Penal/8. Ação Penal/8.1 A. P. - Noções Gerais.md",
