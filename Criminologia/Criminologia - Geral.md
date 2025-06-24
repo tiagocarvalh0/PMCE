@@ -26,3 +26,12 @@ I. Estudo empírico e interdisciplinar que se propõe a explicar as causas da cr
 II. Se refere ao conjunto de medidas e programas governamentais voltados à prevenção e à repressão do delito. -> <span style="color:rgb(0, 176, 240)">POLITICA CRIMINAL. </span>
 
 III. Compreende o arcabouço de normas e princípios que estabelecem os crimes e suas respectivas sanções. -> <span style="color:rgb(0, 176, 240)">DOGMATICA PENAL.</span> 
+
+[Q3098531](https://www.qconcursos.com/questoes-de-concursos/questoes/ebb81c58-b2)
+Escola Classica: <span style="color:rgb(0, 176, 240)">LIVRE ARBITRIO</span> -> <span style="color:rgb(0, 176, 240)">PENA DE CARATER RETRIBUTIVO.</span>
+Expoentes: **CBF**
+**C**arrara;
+**B**ecarria;
+**F**eurbach.
+Escola Positivista (contraposição à Clássica) :  <span style="color:rgb(0, 176, 240)">INFLUENCIA DOS FATORES BIOLOGICOS, PSICOLOGICOS E SOCIAIS</span> ->  <span style="color:rgb(0, 176, 240)">PENA FUNÇÃO PREVENTIVA.</span> 
+Escola Con
