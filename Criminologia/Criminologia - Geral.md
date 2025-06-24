@@ -13,3 +13,9 @@ Elementos constitutivos do crime -> CRIMINOLOGIA
 4 - Consenso sobre sua etiologia (causa) e Tecnicas de intervenção eficaz.
 
 [Q3383800](https://www.qconcursos.com/questoes-de-concursos/questoes/bcac7e43-3d)
+<span style="color:rgb(0, 176, 80)">I O controle social informal é exercido pela sociedade civil, mediante a difusão de regras sociais que são internalizadas na sociedade, para promover a educação do indivíduo no contexto social.</span>
+<span style="color:rgb(0, 176, 80)">II Diversos órgãos são responsáveis pelo controle social formal, por exemplo, a polícia judiciária, o Ministério Público e o Poder Judiciário, e tal controle se subdivide em três seleções, enquadrando-se a atuação da polícia na denominada primeira seleção.</span>
+CONTROLE SOCIAL FORMAL
+1 - Seleção - POLICIA.
+2 - Seleção - MP.
+3 - Seleção - PODER JUDICIARIO.
