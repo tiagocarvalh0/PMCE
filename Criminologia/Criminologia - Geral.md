@@ -33,5 +33,12 @@ Expoentes: **CBF**
 **C**arrara;
 **B**ecarria;
 **F**eurbach.
+
 Escola Positivista (contraposição à Clássica) :  <span style="color:rgb(0, 176, 240)">INFLUENCIA DOS FATORES BIOLOGICOS, PSICOLOGICOS E SOCIAIS</span> ->  <span style="color:rgb(0, 176, 240)">PENA FUNÇÃO PREVENTIVA.</span> 
-Escola Con
+Expoentes: **LFG**
+**L**ombroso (Antropológica);
+**F**erri (Sociológica);
+**G**arofalo (Jurídica).
+
+Escola Correcionista (Proteção ao criminoso): <span style="color:rgb(0, 176, 240)">CRIMINOSO NECESSITA DE AJUDA (INFERIOS AOS OUTROS</span>) -> <span style="color:rgb(0, 176, 240)">PENA MERAMENTE TERAPEUTICA, PIEDOSA.</span> 
+
