@@ -7,4 +7,9 @@ E - buscou explicar cientificamente as causas do delito, a partir do método emp
 
 [Q3383803](https://www.qconcursos.com/questoes-de-concursos/questoes/bcb49799-3d)
 Elementos constitutivos do crime -> CRIMINOLOGIA
-1 - Incidencia massiva na população 
+1 - Incidencia massiva na população -> SER RECORRENTE.
+2 - Incidencia aflitiva -> SOFRIMENTO SOCIAL.
+3 - Persistência espaço-tempora -> DIFERENTES LOCAIS/AO LONGO DO TEMPO.
+4 - Consenso sobre sua etiologia (causa) e Tecnicas de intervenção eficaz.
+
+[Q3383800](https://www.qconcursos.com/questoes-de-concursos/questoes/bcac7e43-3d)
