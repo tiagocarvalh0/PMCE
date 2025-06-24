@@ -46,4 +46,5 @@ Escola Correcionista (Proteção ao criminoso): <span style="color:rgb(0, 176, 2
 **Vitimização Primaria**: dano materia, fisico  e psicologico.
 **Sobrevitimizaação/Revitimização**: sofrimento pelo sistema de justiça ou sociedade. -><span style="color:rgb(0, 176, 240)"> MP, JUDICIARIO, POLICIA.</span>
 **Vitimização Terciaria:** Humilhação/Abandono pelo Estado/Grupo Social -> <span style="color:rgb(0, 176, 240)">FAMILIA, AMIGOS, SOCIEDADE.</span>
-**Vitimização Indireta**: 
+**Vitimização Indireta**: Sofrimento de pessoas relacionadas a vitima.
+**Heterovitimização**: autorrecriminação da vitima -> tenta achar uma razão que a resposabiliza pelo crime.
