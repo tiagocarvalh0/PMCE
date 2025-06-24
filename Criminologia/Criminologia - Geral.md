@@ -48,3 +48,9 @@ Escola Correcionista (Proteção ao criminoso): <span style="color:rgb(0, 176, 2
 **Vitimização Terciaria:** Humilhação/Abandono pelo Estado/Grupo Social -> <span style="color:rgb(0, 176, 240)">FAMILIA, AMIGOS, SOCIEDADE.</span>
 **Vitimização Indireta**: Sofrimento de pessoas relacionadas a vitima.
 **Heterovitimização**: autorrecriminação da vitima -> tenta achar uma razão que a resposabiliza pelo crime.
+
+[Q2360736](https://www.qconcursos.com/questoes-de-concursos/questoes/5e838a66-c0)
+Criminologia -> <span style="color:rgb(0, 176, 240)">DO SER.</span>
+Direito Penal -> <span style="color:rgb(0, 176, 240)">DO DEVER SER.</span> 
+
+[Q2386197](https://www.qconcursos.com/questoes-de-concursos/questoes/4cc8ab92-db)
