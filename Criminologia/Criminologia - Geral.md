@@ -20,3 +20,9 @@ CONTROLE SOCIAL FORMAL
 2 - Seleção - <span style="color:rgb(0, 176, 240)">MP.</span>
 3 - Seleção - <span style="color:rgb(0, 176, 240)">PODER JUDICIARIO.</span>
 
+[Q3171679](https://www.qconcursos.com/questoes-de-concursos/questoes/bf766cf3-dd)
+I. Estudo empírico e interdisciplinar que se propõe a explicar as causas da criminalidade. -> <span style="color:rgb(0, 176, 240)">CRIMINOLOGIA.</span>
+
+II. Se refere ao conjunto de medidas e programas governamentais voltados à prevenção e à repressão do delito. -> <span style="color:rgb(0, 176, 240)">POLITICA CRIMINAL. </span>
+
+III. Compreende o arcabouço de normas e princípios que estabelecem os crimes e suas respectivas sanções. -> <span style="color:rgb(0, 176, 240)">DOGMATICA PENAL.</span> 
