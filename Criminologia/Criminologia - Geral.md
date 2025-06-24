@@ -54,3 +54,8 @@ Criminologia -> <span style="color:rgb(0, 176, 240)">DO SER.</span>
 Direito Penal -> <span style="color:rgb(0, 176, 240)">DO DEVER SER.</span> 
 
 [Q2386197](https://www.qconcursos.com/questoes-de-concursos/questoes/4cc8ab92-db)
+**Idade de Ouro da Vítima** : Composição/Autotutela = Justiça com as próprias mãos = Lei do talião.
+**Neutralização do Poder da Vítima** : Estado assume o direito/dever de punir.
+**Revalorização do Poder da Vítima** : Vitima recupera parcela do protagonismo.
+
+[Q2386196](https://www.qconcursos.com/questoes-de-concursos/questoes/4cc67899-db)
