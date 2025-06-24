@@ -59,3 +59,10 @@ Direito Penal -> <span style="color:rgb(0, 176, 240)">DO DEVER SER.</span>
 **Revalorização do Poder da Vítima** : Vitima recupera parcela do protagonismo.
 
 [Q2386196](https://www.qconcursos.com/questoes-de-concursos/questoes/4cc67899-db)
+**Vitima Ideal** : Completamente inocente.
+**Vitima por Ignorância/Menos Culpada**: Contribui de alguma forma para o delito. -> DESCUIDO.
+**Vitima Voluntaria** : Tão culpada quanto o agente.
+**Vitima Provocadora**: Mais culpada que o agente ->  PAI QUE MATA ESTRUPADOR DA FILHA.
+**Vitima Imaginaria**: Suicidio. 
+
+ 
