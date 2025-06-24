@@ -65,4 +65,5 @@ Direito Penal -> <span style="color:rgb(0, 176, 240)">DO DEVER SER.</span>
 **Vitima Provocadora**: Mais culpada que o agente ->  PAI QUE MATA ESTRUPADOR DA FILHA.
 **Vitima Imaginaria**: Suicidio. 
 
- 
+ [Q2059110](https://www.qconcursos.com/questoes-de-concursos/questoes/64be13e8-9e)
+ Objetos da Criminologia : 
