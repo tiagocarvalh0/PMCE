@@ -42,3 +42,7 @@ Expoentes: **LFG**
 
 Escola Correcionista (Proteção ao criminoso): <span style="color:rgb(0, 176, 240)">CRIMINOSO NECESSITA DE AJUDA (INFERIOS AOS OUTROS</span>) -> <span style="color:rgb(0, 176, 240)">PENA MERAMENTE TERAPEUTICA, PIEDOSA.</span> 
 
+[Q2464803](https://www.qconcursos.com/questoes-de-concursos/questoes/247ca705-06)
+Vitimização Primaria: dano materia, fisico  e psicologico.
+Sobrevitimizaação/Revitimização: sofrimento pelo sistema de justiça ou sociedade.
+Vitimização Terciaria: Humilhação/Abandono do 
