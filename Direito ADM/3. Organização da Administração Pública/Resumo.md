@@ -73,5 +73,9 @@
 
 <span style="color:rgb(112, 48, 160)">ESTRUTURA:</span>
 - SIMPLES: Apenas 1 centro de comando, sem subdivisões internas.
-- COMPOSTO: Possuem outros órgãos subordinados dentro da sua estrutura
+- COMPOSTO: Possuem outros órgãos subordinados dentro da sua estrutura.
+
+<span style="color:rgb(112, 48, 160)">ATUAÇÃO FUNCIONAL:</span>
+- SINGULARES: Poder decisório por meio de 1 unico agente.
+- COLEGIADOS: Poder decisório por manifestação conjunta e majoritaria de seus membros.
 
