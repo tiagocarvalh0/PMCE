@@ -3,4 +3,4 @@
 - ENTIDADE: Unidade dotada de personalidade juridica.
 - Órgão: Unidade integrante da ADM direta/indireta, não possui personalidade juridica.
 CENTRALIZÇÃO x DESCENTRALIZAÇÃO
-- Centralização: 
+- Centralização = ADM DIRETA -> MEDO = Municipio, Estado, DF, 
