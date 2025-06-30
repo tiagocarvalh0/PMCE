@@ -42,4 +42,9 @@
 - Agentes como MANDATARIOS do estado -> PROBLEMA: estado não pode outorga mandados pior vontade própria.
 
 <span style="color:rgb(112, 48, 160)">TEORIA DA REPRESENTAÇÃO:</span> 
-- Agentes representantes do estado (tutor de incapaz)  PROBLEMA
+- Agentes representantes do estado (tutor de incapaz)  PROBLEMA: Estado não e incapaz.
+
+<span style="color:rgb(112, 48, 160)">TEORIA DO ÓRGÃO:</span> 
+- Estado manifesta sua vontade pelo orgão (composto de agentes).
+- Ação do agente = Ação do estado. -> ESTADO RESPONDE PELO AGENTE.
+#### **CRIAÇÃO E EXTINÇÃO**
