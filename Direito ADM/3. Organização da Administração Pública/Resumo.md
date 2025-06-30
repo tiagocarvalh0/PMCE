@@ -48,5 +48,10 @@
 - Estado manifesta sua vontade pelo orgão (composto de agentes).
 - Ação do agente = Ação do estado. -> ESTADO RESPONDE PELO AGENTE.
 #### **CRIAÇÃO E EXTINÇÃO DE ORGÃO PUB.**
+<span style="color:rgb(112, 48, 160)">CRIAÇÃO/EXTINÇÃO:</span>
 - Chefe do poder executivo propõem lei sobre organização adm.
-- Exige aprovação lei pelo 
+- Exige aprovação lei pelo PODER LEGISLATIVO.
+
+<span style="color:rgb(112, 48, 160)">ORGANIZAÇÃO INTERNA:
+</span> 
+- Pode ser feita por simples decreto, desde que não aumente despesa, nem criação/extinção de órgão pub.
