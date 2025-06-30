@@ -39,4 +39,7 @@
 - Centro de competências que desempenha funções estatais por meio de seus agentes.
 #### **RELAÇÃO ESTADO-AGENTE PUB.**
 <span style="color:rgb(112, 48, 160)">TEORIA DO MANDATO:</span>
-- 
+- Agentes como MANDATARIOS do estado -> PROBLEMA: estado não pode outorga mandados pior vontade própria.
+
+<span style="color:rgb(112, 48, 160)">TEORIA DA REPRESENTAÇÃO:</span> 
+- Agentes representantes do estado (tutor de incapaz) 
