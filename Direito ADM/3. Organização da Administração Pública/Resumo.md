@@ -64,4 +64,9 @@
 <span style="color:rgb(112, 48, 160)">EXCEÇÃO: </span>
 - Mandado de segurança para órgão autônomos e independentes. -> Órgão de naturza constitucional Ex.: STF.
 
+#### **CLASSIFICAÇÃO DOS ÓRGÃOS** 
+<span style="color:rgb(112, 48, 160)">POSIÇÃO ESTATAL: </span>
+- INDEPENDENTES: Origem na própria CF/88, subordinados apenas a CF e as Leis.
+- AUTONOMOS: Tem autonomia ADM/Finaceira/Tecnica, subordinados diretamente aos órgãos independentes.
+- SUPERIOR: Órgãos que tem o poder de direção 
 
