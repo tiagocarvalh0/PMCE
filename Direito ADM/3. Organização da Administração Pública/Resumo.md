@@ -47,4 +47,6 @@
 <span style="color:rgb(112, 48, 160)">TEORIA DO ÓRGÃO:</span> 
 - Estado manifesta sua vontade pelo orgão (composto de agentes).
 - Ação do agente = Ação do estado. -> ESTADO RESPONDE PELO AGENTE.
-#### **CRIAÇÃO E EXTINÇÃO**
+#### **CRIAÇÃO E EXTINÇÃO DE ORGÃO PUB.**
+- Chefe do poder executivo propõem lei sobre organização adm.
+- Exige aprovação lei pelo 
