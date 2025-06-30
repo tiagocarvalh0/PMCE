@@ -29,3 +29,7 @@
 
 <span style="color:rgb(112, 48, 160)">TERRITORIAL OU GEOGRAFICA:</span>
 - Transferência de competências administrativas para entidades locais.
+
+#### **DESCONCENTRAÇÃO** 
+<span style="color:rgb(112, 48, 160)">DESCONCENTRAÇAO:</span> 
+- 
