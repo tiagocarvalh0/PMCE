@@ -20,4 +20,4 @@
 #### **TIPOS DE DESCENTRALIZAÇÃO ADM**
 
 <span style="color:rgb(112, 48, 160)">SERVIÇO, FUNCIONAL, TÉCNICA OU OUTORGA</span>:
-- 
+- Transfere titularidade pa
