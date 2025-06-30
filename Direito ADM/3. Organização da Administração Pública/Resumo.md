@@ -66,7 +66,12 @@
 
 #### **CLASSIFICAÇÃO DOS ÓRGÃOS** 
 <span style="color:rgb(112, 48, 160)">POSIÇÃO ESTATAL: </span>
-- INDEPENDENTES: Origem na própria CF/88, subordinados apenas a CF e as Leis.
-- AUTONOMOS: Tem autonomia ADM/Finaceira/Tecnica, subordinados diretamente aos órgãos independentes.
-- SUPERIOR: Órgãos que tem o poder de direção 
+- **INDEPENDENTES**: Origem na própria CF/88, subordinados apenas a CF e as Leis.
+- **AUTONOMOS**: Tem autonomia ADM/Finaceira/Tecnica, subordinados diretamente aos órgãos independentes.
+- **SUPERIOR**: Órgãos que tem o poder de Direção/Comando, porem sempre subordinados a controle hierárquico = NÃO TEM AUTONOMIA.
+- **SUBALTERNOS**: Subordinados a outros órgãos, com função de executar as decisões tomadas pela ADM.
+
+<span style="color:rgb(112, 48, 160)">ESTRUTURA:</span>
+- SIMPLES: Apenas 1 centro de comando, sem subdivisões internas.
+- COMPOSTO: Possuem outros órgãos subordinados dentro da sua estrutura
 
