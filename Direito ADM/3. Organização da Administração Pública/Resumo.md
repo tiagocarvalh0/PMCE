@@ -55,3 +55,5 @@
 <span style="color:rgb(112, 48, 160)">ORGANIZAÇÃO INTERNA:
 </span> 
 - Pode ser feita por simples decreto, desde que não aumente despesa, nem criação/extinção de órgão pub.
+
+#### **CAPACIDADE PROCESSUAL**
