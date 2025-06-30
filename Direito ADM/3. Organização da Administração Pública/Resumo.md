@@ -20,4 +20,8 @@
 #### **TIPOS DE DESCENTRALIZAÇÃO ADM**
 
 <span style="color:rgb(112, 48, 160)">SERVIÇO, FUNCIONAL, TÉCNICA OU OUTORGA</span>:
-- Entidade Politica (MEDU) transfere titularidade + execução do serviço para FASE por prazo indeterminado e  -> ADM
+- Entidade Politica (MEDU) transfere por lei a titularidade + execução do serviço para FASE por prazo indeterminado e sem subordinação. -> ADM INDIRETA.
+- Ente instituidor apenas fiscaliza = TUTELA.
+
+<span style="color:rgb(112, 48, 160)">COLABORAÇÃO OU DELEGAÇÃO:</span>
+- 
