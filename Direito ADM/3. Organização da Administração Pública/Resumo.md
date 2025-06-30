@@ -31,5 +31,7 @@
 - Transferência de competências administrativas para entidades locais.
 
 #### **DESCONCENTRAÇÃO** 
-<span style="color:rgb(112, 48, 160)">DESCONCENTRAÇAO:</span> 
-- 
+<span style="color:rgb(112, 48, 160)">DESCONCENTRAÇAO:</span>  = CRIAR ÒRGÃO -> DENTRO DA MSM ENTIDADE.
+- Distribuição de competencia dentro da msm pessoa juridica.
+
+# <span style="color:rgb(0, 176, 240)">ÓRGÃOS PÚBLICOS</span> 
