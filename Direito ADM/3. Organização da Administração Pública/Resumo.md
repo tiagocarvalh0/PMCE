@@ -24,4 +24,5 @@
 - Ente instituidor apenas fiscaliza = TUTELA.
 
 <span style="color:rgb(112, 48, 160)">COLABORAÇÃO OU DELEGAÇÃO:</span>
-- Entidade Politica (MEDU) transfere APENAS a execução do serviço para a pessoa juridica de direito privado por meio de contrato/concessão/permissão (tempo determinado) ou ato unilateral/autorização ()
+- Entidade Politica (MEDU) transfere APENAS a execução do serviço para a pessoa juridica de direito privado por meio de contrato/concessão/permissão (tempo determinado) ou ato unilateral/autorização (tempo indeterminado/revogado a qualquer tempo).
+TERRITORIAL
