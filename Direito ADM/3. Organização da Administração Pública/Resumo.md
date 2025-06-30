@@ -32,7 +32,11 @@
 
 #### **DESCONCENTRAÇÃO** 
 <span style="color:rgb(112, 48, 160)">DESCONCENTRAÇAO:</span>  = CRIAR ÒRGÃO -> DENTRO DA MSM ENTIDADE.
-- Distribuição de competencia dentro da msm pessoa juridica.
+- Distribuição de competência dentro da msm pessoa juridica.
 
 # <span style="color:rgb(0, 176, 240)">ÓRGÃOS PÚBLICOS</span> 
-
+<span style="color:rgb(112, 48, 160)">ÓRGÃO PUBLICOS:</span>
+- Centro de competências que desempenha funções estatais por meio de seus agentes.
+#### **RELAÇÃO ESTADO-AGENTE PUB.**
+<span style="color:rgb(112, 48, 160)">TEORIA DO MANDATO:</span>
+- 
