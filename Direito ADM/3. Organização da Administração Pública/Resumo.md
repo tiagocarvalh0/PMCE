@@ -25,4 +25,7 @@
 
 <span style="color:rgb(112, 48, 160)">COLABORAÇÃO OU DELEGAÇÃO:</span>
 - Entidade Politica (MEDU) transfere APENAS a execução do serviço para a pessoa juridica de direito privado por meio de contrato/concessão/permissão (tempo determinado) ou ato unilateral/autorização (tempo indeterminado/revogado a qualquer tempo).
-TERRITORIAL
+- Ente instituidor fiscalização ampla e direta.
+
+<span style="color:rgb(112, 48, 160)">TERRITORIAL OU GEOGRAFICA:</span>
+- Transferência de competências administrativas para entidades locais.
