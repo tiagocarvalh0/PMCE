@@ -54,7 +54,20 @@
 
 #### **FUNDAÇÃO PUB.**
 <span style="color:rgb(112, 48, 160)">GERAL:</span>
-- 
+- PJ do Direito Priv.
+- Sem fins lucrativos
+- Criada -> Lei Especifica -> Registrada em Cartório
+- Área de atuação -> Lei Complementar 
+- Autonomia ADM/Patrimônio Próprio -> Gerido pelo órgão de direção.
+- Funcionamento custeado pela união e de outras fontes.
+![[Fund Pub.PNG]]
+
+#### **EMPRESAS ESTATAIS**
+<span style="color:rgb(112, 48, 160)">GERAL:</span>
+- PJ do Direito Priv.
+- Capital EXCLUSIVAMENTE Publico
+- Prestação de serviços públicos/Exploração de atividades econômicas.
+
 
 # <span style="color:rgb(0, 176, 240)">ÓRGÃOS PÚBLICOS</span> 
 <span style="color:rgb(112, 48, 160)">ÓRGÃO PUBLICOS:</span>
