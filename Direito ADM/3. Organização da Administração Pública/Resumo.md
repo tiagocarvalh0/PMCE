@@ -32,8 +32,8 @@
 
 # **<span style="color:rgb(0, 176, 240)">FASE</span>**
 
-<span style="color:rgb(112, 48, 160)">AUTARQUIAS:</span>
-- CREAÇÃO/EXTINÇÃO sempre por LEI.
+#### **AUTARQUIAS:**
+- CRIAÇÃO/EXTINÇÃO sempre por LEI.
 - PJ do Direito Pub.
 - Tem autonomia ADM/ORÇAMENTARIA/TECNICA.
 - Capital EXCLUSIVAMENTE publico.
