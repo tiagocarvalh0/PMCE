@@ -30,6 +30,14 @@
 <span style="color:rgb(112, 48, 160)">TERRITORIAL OU GEOGRAFICA:</span>
 - Transferência de competências administrativas para entidades locais.
 
+# **<span style="color:rgb(0, 176, 240)">FASE</span>**
+
+<span style="color:rgb(112, 48, 160)">AUTARQUIAS:</span>
+- CREAÇÃO/EXTINÇÃO sempre por LEI.
+- PJ do Direito Pub.
+- Tem autonomia ADM/ORÇAMENTARIA/TECNICA.
+- Capital EXCLUSIVAMENTE publico.
+- Especialização de fins/atividades
 #### **DESCONCENTRAÇÃO** 
 <span style="color:rgb(112, 48, 160)">DESCONCENTRAÇAO:</span>  = CRIAR ÒRGÃO -> DENTRO DA MSM ENTIDADE.
 - Distribuição de competência dentro da msm pessoa jurídica.
