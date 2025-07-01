@@ -47,6 +47,7 @@
 
 <span style="color:rgb(112, 48, 160)">ESTRUTURAS DAS AUTARQUIAS:</span>
 - **CORPORATIVAS**: Fiscalizam/Controlam o exercício de determinada profissão. = Conselho de Profissionais. 
+- **FUNCIONAIS**: 
 #### **DESCONCENTRAÇÃO** 
 <span style="color:rgb(112, 48, 160)">DESCONCENTRAÇAO:</span>  = CRIAR ÒRGÃO -> DENTRO DA MSM ENTIDADE.
 - Distribuição de competência dentro da msm pessoa jurídica.
