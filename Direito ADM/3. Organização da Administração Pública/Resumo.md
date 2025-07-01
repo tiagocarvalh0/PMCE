@@ -33,12 +33,16 @@
 # **<span style="color:rgb(0, 176, 240)">FASE</span>**
 
 #### **AUTARQUIAS:**
-- CRIAÇÃO/EXTINÇÃO sempre por LEI. -> MSM lei define sua estrutura/atividade/contornos.
+<span style="color:rgb(112, 48, 160)">GERAL:</span>
+- CRIAÇÃO/EXTINÇÃO sempre por LEI. -> MSM Lei define sua estrutura/atividade/contornos.
 - PJ do Direito Pub.
 - Tem autonomia ADM/ORÇAMENTARIA/TECNICA.
 - Capital EXCLUSIVAMENTE publico.
 - Especialização de fins/atividades
 - Sujeito ao controle de tutela -> NÃO e subordinado ao ente que o criou, apenas vinculado a ele.
+<span style="color:rgb(112, 48, 160)">TIPOS DE AUTARQUIAS:</span>
+- **TERRITORIAIS**: Desmembramento geográfico do estado, possuem prerrogativas adm e politicas limitadas. -> TERRITORIOS FEDERAIS.
+- **INSTITUCIONAIS**: Criadas por Lei especificas para fins ADM.
 #### **DESCONCENTRAÇÃO** 
 <span style="color:rgb(112, 48, 160)">DESCONCENTRAÇAO:</span>  = CRIAR ÒRGÃO -> DENTRO DA MSM ENTIDADE.
 - Distribuição de competência dentro da msm pessoa jurídica.
