@@ -72,10 +72,10 @@
 - **SUBALTERNOS**: Subordinados a outros órgãos, com função de executar as decisões tomadas pela ADM.
 
 <span style="color:rgb(112, 48, 160)">ESTRUTURA:</span>
-- SIMPLES: Apenas 1 centro de comando, sem subdivisões internas.
-- COMPOSTO: Possuem outros órgãos subordinados dentro da sua estrutura.
+- **SIMPLES**: Apenas 1 centro de comando, sem subdivisões internas.
+- **COMPOSTO**: Possuem outros órgãos subordinados dentro da sua estrutura.
 
 <span style="color:rgb(112, 48, 160)">ATUAÇÃO FUNCIONAL:</span>
-- SINGULARES: Poder decisório por meio de 1 unico agente.
-- COLEGIADOS: Poder decisório por manifestação conjunta e majoritaria de seus membros.
+- **SINGULARES**: Poder decisório por meio de 1 único agente.
+- **COLEGIADOS**: Poder decisório por manifestação conjunta e majoritária de seus membros.
 
