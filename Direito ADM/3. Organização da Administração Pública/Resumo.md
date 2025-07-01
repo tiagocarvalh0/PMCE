@@ -29,6 +29,9 @@
 
 <span style="color:rgb(112, 48, 160)">TERRITORIAL OU GEOGRAFICA:</span>
 - Transferência de competências administrativas para entidades locais.
+#### **DESCONCENTRAÇÃO** 
+<span style="color:rgb(112, 48, 160)">DESCONCENTRAÇAO:</span>  = CRIAR ÒRGÃO -> DENTRO DA MSM ENTIDADE.
+- Distribuição de competência dentro da msm pessoa jurídica.
 
 # **<span style="color:rgb(0, 176, 240)">FASE</span>**
 
@@ -48,9 +51,10 @@
 <span style="color:rgb(112, 48, 160)">ESTRUTURAS DAS AUTARQUIAS:</span>
 - **CORPORATIVAS**: Fiscalizam/Controlam o exercício de determinada profissão. = Conselho de Profissionais. 
 - **FUNCIONAIS**: Destacamento do patrimônio estatal, desempenhando atividades de desenvolvimento social. 
-#### **DESCONCENTRAÇÃO** 
-<span style="color:rgb(112, 48, 160)">DESCONCENTRAÇAO:</span>  = CRIAR ÒRGÃO -> DENTRO DA MSM ENTIDADE.
-- Distribuição de competência dentro da msm pessoa jurídica.
+
+#### **FUNDAÇÃO PUB.**
+<span style="color:rgb(112, 48, 160)">GERAL:</span>
+- 
 
 # <span style="color:rgb(0, 176, 240)">ÓRGÃOS PÚBLICOS</span> 
 <span style="color:rgb(112, 48, 160)">ÓRGÃO PUBLICOS:</span>
