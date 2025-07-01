@@ -71,9 +71,10 @@
 #### **SOCIEDADE DE ECONIMIA MISTA**
 <span style="color:rgb(112, 48, 160)">GERAL:</span>
 - PJ do Direito Priv.
-- Capital Misto/Forma
+- Capital Misto
+- Forma de S/A
 - Prestação de serviços públicos/Exploração de atividades econômicas.
-- 
+-
 # <span style="color:rgb(0, 176, 240)">ÓRGÃOS PÚBLICOS</span> 
 <span style="color:rgb(112, 48, 160)">ÓRGÃO PUBLICOS:</span>
 - Centro de competências que desempenha funções estatais por meio de seus agentes.
