@@ -22,6 +22,7 @@
 <span style="color:rgb(112, 48, 160)">SERVIÇO, FUNCIONAL, TÉCNICA OU OUTORGA</span>:
 - Entidade Politica (MEDU) transfere por lei a titularidade + execução do serviço para FASE por prazo indeterminado e sem subordinação. -> ADM INDIRETA.
 - Ente instituidor apenas fiscaliza = TUTELA.
+- Outorga cria FASE.
 
 <span style="color:rgb(112, 48, 160)">COLABORAÇÃO OU DELEGAÇÃO:</span>
 - Entidade Politica (MEDU) transfere APENAS a execução do serviço para a pessoa jurídica de direito privado por meio de contrato/concessão/permissão (tempo determinado) ou ato unilateral/autorização (tempo indeterminado/revogado a qualquer tempo).
