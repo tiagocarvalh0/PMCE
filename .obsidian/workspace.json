@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Direito ADM/3. Organização da Administração Pública/3.2 Administração Direta.md",
+                "file": "Direito ADM/3. Organização da Administração Pública/Resumo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 Administração Direta"
+              "title": "Resumo"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bb7706a688cba00d",
@@ -195,8 +194,8 @@
   },
   "active": "621781aee264ac0f",
   "lastOpenFiles": [
-    "Direito ADM/3. Organização da Administração Pública/3.1 Desconcentração e Descentralização Administrativa.md",
     "Direito ADM/3. Organização da Administração Pública/3.2 Administração Direta.md",
+    "Direito ADM/3. Organização da Administração Pública/3.1 Desconcentração e Descentralização Administrativa.md",
     "Direito ADM/3. Organização da Administração Pública/Resumo.md",
     "Criminologia/Criminologia - Geral.md",
     "GCM - ESPECIFCA.pdf",

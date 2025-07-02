@@ -110,7 +110,7 @@
 <span style="color:rgb(112, 48, 160)">POSIÇÃO ESTATAL: </span>
 - **INDEPENDENTES**: Origem na própria CF/88, subordinados apenas a CF e as Leis.
 - **AUTONOMOS**: Tem autonomia ADM/Finaceira/Tecnica, subordinados diretamente aos órgãos independentes.
-- **SUPERIOR**: Órgãos que tem o poder de Direção/Comando, porem sempre subordinados a controle hierárquico = NÃO TEM AUTONOMIA.
+- **SUPERIOR**: Órgãos que tem o poder de Direção/Comando, porem sempre subordinados a controle hierárquico = NÃO TEM AUTONOMIA ADM/FINANCEIRA.
 - **SUBALTERNOS**: Subordinados a outros órgãos, com função de executar as decisões tomadas pela ADM.
 
 <span style="color:rgb(112, 48, 160)">ESTRUTURA:</span>
